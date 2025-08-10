@@ -41,13 +41,10 @@ Performance is evaluated in terms of **time taken to perform motion compensation
 
 ## Repository Structure
 
-📂 data/           # Output data
-📂 result/         # Processed outputs and visualizations  
-📜 main.m          # Main execution script  
-📜 mc_performance.m # Performance evaluation script  
+📂 data/           # Input data
+📂 src/            # Source code
+📂 outputs/         # Processed outputs and visualizations  
 📜 Motion Compensation.pdf # Technical documentation/report  
-🎥 hotairballoon_2160_3840_30fps.mp4 # Sample video for testing  
-
 ---
 
 ## Result (3D Plot)
