@@ -41,7 +41,7 @@ Performance is evaluated in terms of **time taken to perform motion compensation
 
 ## Repository Structure
 
-📂 data/           # Input datasets (video frames, test files)  
+📂 data/           # Output data
 📂 result/         # Processed outputs and visualizations  
 📜 main.m          # Main execution script  
 📜 mc_performance.m # Performance evaluation script  
