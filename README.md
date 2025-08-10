@@ -42,9 +42,13 @@ Performance is evaluated in terms of **time taken to perform motion compensation
 ## Repository Structure
 
 📂 data/           # Input data
+
 📂 src/            # Source code
+
 📂 outputs/         # Processed outputs and visualizations  
-📜 Motion Compensation.pdf # Technical documentation/report  
+
+📜 Motion Compensation.pdf # Technical documentation/report
+
 ---
 
 ## Result (3D Plot)
